@@ -4,7 +4,7 @@ Flask==0.11
 chatterbot==0.8.4
 SQLAlchemy==1.3.18
 
-#### A web implementation using Flask.
+#### A web implementation of chatterbot using Flask.
 
 ## Local Setup:
  1. Open command prompt and locate folder. run 'pip install -r requirements.txt'
